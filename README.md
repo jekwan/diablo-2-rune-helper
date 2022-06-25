@@ -2,7 +2,7 @@
 
 ## 요구사항 정의서
 
-**[보러가기](https://github.com/jekwan/https://github.com/jekwan/diablo-2-rune-helper/tree/master/SRS.md)** -> 작업 중입니다.
+**[보러가기](https://github.com/jekwan/diablo-2-rune-helper/blob/master/SRS.md)** -> 작업 중입니다.
 
 ## 사용한 기술 스택
 
