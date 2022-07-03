@@ -21,13 +21,17 @@
 
 ## styled-components
 
-`vue`는 `SFC`를 사용하면 `CSS-in-JS`방식로 컴포넌트 스타일링이 가능했습니다. 프로젝트 구조도 간단해지고 컴포넌트와 스타일간의 관계가 직관적이기도 해서 편하게 개발할 수 있었습니다.
+`vue`는 `SFC`를 사용하면 `CSS-in-JS`방식로 컴포넌트 스타일링이 가능했습니다. 프로젝트 구조도 간단해지고 컴포넌트와 스타일간의 관계가 직관적으로 보인다는 점 덕분에 편하게 개발할 수 있었습니다.
 
 `React`도 다양한 스타일링 방식을 지원하지만 위에서 서술한 개인적 선호에 따라 `CSS-in-JS`방식을 사용하기로 결정했습니다.
 
 `emotion`과 `styled-components`는 큰 차이가 없어보이기도 하고, 작년(2021년)기준 `styled-components`가 2배 이상 많이 사용되고 있기 때문에 `styled-components`를 사용해 보기로 하였습니다.
 
 > https://2021.stateofcss.com/en-US/technologies/css-in-js/
+
+## Typescript
+
+미정
 
 ## 상태 관리
 
